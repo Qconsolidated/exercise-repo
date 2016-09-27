@@ -1,9 +1,11 @@
 # exercise-repo
 Programming Fundamentals exercises
 
-Add Git exercises and solutions
+Add Git exercises and solutions.
 
-Making conflicts for the hell of it
+Making conflicts for the hell of it.
 
-Make conflicts
+Make conflicts.
+
+GitBash test.
 
