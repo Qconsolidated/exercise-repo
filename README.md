@@ -1,4 +1,5 @@
 # exercise-repo
 Programming Fundamentals exercises
 
-Add Git exercises and solutions
+Add Git exercises and solutions.
+Create conflicts.
