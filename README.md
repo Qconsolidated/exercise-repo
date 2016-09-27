@@ -2,3 +2,4 @@
 Programming Fundamentals exercises
 
 Add Git exercises and solutions
+Making conflicts for the hell of it
